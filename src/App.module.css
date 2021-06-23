@@ -1,0 +1,14 @@
+.App{
+    text-align: center;
+    width: 960px;
+    margin: 0 auto;
+    color:#ddd;
+}
+.App h1{
+    font-size: 4em;
+    letter-spacing: 2px;
+}
+.App h1,h3{
+    color: yellow;
+    
+}
